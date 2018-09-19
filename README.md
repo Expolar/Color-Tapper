@@ -1,5 +1,5 @@
 # Color-Tapper
-# Hi, thnk you for reading the README. Here I will quickly explain the game.
+Hi, thank you for reading the README. Here I will quickly explain the game.
 
 # Download Instructions:
 1) Simply download the zip file, Color_Tapper_(PC v.1.0.0).zip. 
