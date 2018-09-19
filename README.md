@@ -11,4 +11,4 @@ Note: This is meant to be a mind game and may be tricky.
 
 Once the game begins a random word saying a color will appear. The word may say Blue, but is printed in red text. For this case, the correct answer to choose below would be red. 
 
-So again, the correct answer will be the color that the word is printed in.
+So in short, the correct answer will be the color that the word is printed in.
